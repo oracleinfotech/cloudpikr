@@ -24,7 +24,7 @@ const ServiceDetails = () => {
                             <div className="services-details-desc">
                                 <h3>Digital Marketing</h3>
                                 <p>
-                                MooDle exists to solve the critical issues facing our clients, both large and small. Our unique approach is not only what differentiates us, but also what makes us successful. We provide a broad range of digital marketing services and solutions to help organizations facilitate change, achieve their vision and optimize performance and productivity.
+                                Cloud Pikr exists to solve the critical issues facing our clients, both large and small. Our unique approach is not only what differentiates us, but also what makes us successful. We provide a broad range of digital marketing services and solutions to help organizations facilitate change, achieve their vision and optimize performance and productivity.
                                 </p>
 
                                 <p>
@@ -32,7 +32,7 @@ const ServiceDetails = () => {
                                 </p>
 
                                 <p>
-                                Please get in touch with us today to learn how MooDle Consultancy can help your future success.  
+                                Please get in touch with us today to learn how Cloud Pikr  can help your future success.  
                                 </p>
                             </div>
                         </div>

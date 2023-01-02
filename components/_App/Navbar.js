@@ -28,7 +28,7 @@ const NavbarStyleFour = () => {
             <div className="startp-nav">
                 <div className="container">
                     <nav className="navbar navbar-expand-md navbar-light">
-                        <Link href="/it-startup">
+                        <Link href="/">
                             <a onClick={toggleNavbar} className="navbar-brand">
                                 <img src="/images/logo-white.png" alt="logo" />
                             </a>
@@ -59,7 +59,7 @@ const NavbarStyleFour = () => {
                                 </li>
 
                                 <li className="nav-item">
-                                    <Link href="/#">
+                                    <Link href="/about">
                                         <a onClick={toggleNavbar}   className="nav-link">
                                             ABOUTUS
                                         </a>
@@ -67,7 +67,7 @@ const NavbarStyleFour = () => {
                                 </li>
 
                                 <li className="nav-item">
-                                    <Link href="/">
+                                    <Link href="/services">
                                         <a onClick={toggleNavbar} className="nav-link">
                                           SERVICE  
                                         </a>
@@ -75,8 +75,8 @@ const NavbarStyleFour = () => {
                                 </li>
 
                                 <li className="nav-item">
-                                    <Link href="/#">
-                                        <a onClick={e => e.preventDefault()} className="nav-link">
+                                    <Link href="/blog">
+                                        <a onClick={toggleNavbar} className="nav-link">
                                         BLOG
                                         </a>
                                     </Link> 

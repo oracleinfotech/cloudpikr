@@ -5,7 +5,7 @@ import PageBanner from '@/components/Common/PageBanner';
 import * as Icon from 'react-feather';
 import Link from 'next/link';
  
-const Blog1 = () => {
+const Blog = () => {
     return (
         <>
             <Navbar />
@@ -246,4 +246,4 @@ const Blog1 = () => {
     )
 }
 
-export default Blog1;
+export default Blog;
