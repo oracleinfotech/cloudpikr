@@ -1,14 +1,15 @@
 {
-    "name": "startp",
+    "name": "CloudPikr",
     "version": "3.5.0",
-    "description": "StartP - React Next IT Startup & Digital Agency Template",
+    "description": "Cloud Pikr",
     "main": "index.js",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
-        "start": "next start"
+        "start": "next start",
+        "export": "next export"
     },
-    "author": "EnvyTheme.com",
+    "author": "Cloud Pikr",
     "dependencies": {
         "animate.css": "^4.1.1",
         "axios": "^0.21.4",

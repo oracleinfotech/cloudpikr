@@ -52,7 +52,7 @@ const NavbarStyleFour = () => {
                             <ul className="navbar-nav ms-auto">
                                 <li className="nav-item">
                                     <Link href="/" activeClassName="active">
-                                        <a onClick={e => e.preventDefault()} className="nav-link">
+                                        <a  onClick={toggleNavbar}  className="nav-link">
                                             HOME
                                         </a>
                                     </Link> 
@@ -60,7 +60,7 @@ const NavbarStyleFour = () => {
 
                                 <li className="nav-item">
                                     <Link href="/#">
-                                        <a onClick={e => e.preventDefault()} className="nav-link">
+                                        <a onClick={toggleNavbar}   className="nav-link">
                                             ABOUTUS
                                         </a>
                                     </Link>  
@@ -68,7 +68,7 @@ const NavbarStyleFour = () => {
 
                                 <li className="nav-item">
                                     <Link href="/">
-                                        <a onClick={e => e.preventDefault()} className="nav-link">
+                                        <a onClick={toggleNavbar} className="nav-link">
                                           SERVICE  
                                         </a>
                                     </Link>                                    

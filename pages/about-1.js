@@ -25,7 +25,7 @@ const About1 = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="about-content">
                                 <div className="section-title">
-                                    <h2>Why Moodle Consultancy</h2>
+                                    <h2>Why Cloud Consultancy</h2>
                                     <div className="bar"></div>
                                 </div>
 
