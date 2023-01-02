@@ -11,12 +11,15 @@ const NavbarStyleFour = () => {
 
     React.useEffect(() => {
         let elementId = document.getElementById("header");
+        elementId.classList.add("is-sticky");  //by avinas navbar
         document.addEventListener("scroll", () => {
+            
             if (window.scrollY > 170) {
                 elementId.classList.add("is-sticky");
             } else {
                 elementId.classList.remove("is-sticky");
             }
+            elementId.classList.add("is-sticky");
         });
     })
  
