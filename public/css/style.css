@@ -3912,9 +3912,9 @@ Big Data Analytics Banner CSS
   left: 20px;
   top: 25px;
   line-height: 55px;
-  background: #cdf1d8;
+  /* background: #cdf1d8; */
   border-radius: 50%;
-  color: #44ce6f;
+  /* color: #44ce6f; */
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -3938,8 +3938,8 @@ Big Data Analytics Banner CSS
 }
 
 .single-banner-boxes:hover .icon {
-  color: #44ce6f;
-  background-color: #ffffff;
+  /* color: #44ce6f;
+  background-color: #ffffff; */
 }
 
 .single-banner-boxes:hover::before {
@@ -3952,23 +3952,23 @@ Big Data Analytics Banner CSS
 }
 
 .col-lg-4:nth-child(2) .single-banner-boxes .icon {
-  color: #f78acb;
-  background: #f9f4f7;
+  /* color: #f78acb; */
+  /* background: #f9f4f7; */
 }
 
 .col-lg-4:nth-child(2) .single-banner-boxes:hover .icon {
-  background-color: #ffffff;
-  color: #f78acb;
+  /* background-color: #ffffff;
+  color: #f78acb; */
 }
 
 .col-lg-4:nth-child(3) .single-banner-boxes .icon {
-  color: #c679e3;
-  background: #edc3fc;
+  /* color: #c679e3;
+  background: #edc3fc; */
 }
 
 .col-lg-4:nth-child(3) .single-banner-boxes:hover .icon {
-  background-color: #ffffff;
-  color: #c679e3;
+  /* background-color: #ffffff;
+  color: #c679e3; */
 }
 
 /*=============================
