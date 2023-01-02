@@ -1,5 +1,5 @@
 import React from 'react';
-import NavbarStyleFour from "@/components/_App/NavbarStyleFour";
+// import NavbarStyleFour from "@/components/_App/NavbarStyleFour";
 import MainBanner from '@/components/BigdataAnalytics/MainBanner';
 import WhatWeDo from '@/components/BigdataAnalytics/WhatWeDo';
 import DiscoverArea from '@/components/BigdataAnalytics/DiscoverArea';
@@ -15,7 +15,7 @@ import Footer from "@/components/_App/Footer";
 const BigdataAnalytics = () => {
     return (
         <>
-            <NavbarStyleFour />
+            {/* <NavbarStyleFour /> */}
             <MainBanner />
             <WhatWeDo />
             <DiscoverArea />

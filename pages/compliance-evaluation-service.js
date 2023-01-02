@@ -1,5 +1,5 @@
 import React from 'react';
-import NavbarStyleFourOne from "@/components/_App/NavbarStyleFourOne";
+import Navbar from "@/components/_App/Navbar";
 import Footer from "@/components/_App/Footer";
 import PageBanner from '@/components/Common/PageBanner';
 import {
@@ -13,7 +13,7 @@ import {
 const DigitalMarketingDetails = () => {
     return (
         <>
-            <NavbarStyleFourOne />
+            <Navbar />
 
             <PageBanner pageTitle=" Compliance(PCI/DSS, HIPAA, NIST, etc) Evaluation & Implementation Service" />
 
