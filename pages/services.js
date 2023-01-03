@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from "@/components/_App/Navbar";
 import Footer from "@/components/_App/Footer";
 import PageBanner from '@/components/Common/PageBanner';
+import Link from '@/utils/ActiveLink';
 import {
     Accordion,
     AccordionItem,
@@ -13,111 +14,147 @@ import {
 const ServiceDetails = () => {
     return (
         <>
-            <Navbar />
+            <Navbar/>
+            <br/>
+        <div className="ml-services-area ptb-80">
+            <div className="container">
+                <div className="section-title">
+                    <span className="sub-title">Our Solutions</span>
+                    <h2>Our Services</h2>
+                    <div className="bar"></div>
+                    <p>We provide best web & app development services in Kolkata, India</p>
+                </div>
 
-            <PageBanner pageTitle="" />
- 
-            <div className="services-details-area ptb-80">
-                <div className="container">
-                    <div className="row align-items-center">
-                        <div className="col-lg-6 services-details">
-                            <div className="services-details-desc">
-                                <h3>Digital Marketing</h3>
-                                <p>
-                                Cloud Pikr exists to solve the critical issues facing our clients, both large and small. Our unique approach is not only what differentiates us, but also what makes us successful. We provide a broad range of digital marketing services and solutions to help organizations facilitate change, achieve their vision and optimize performance and productivity.
-                                </p>
-
-                                <p>
-                                We help brands find new ways to stay connected with their consumers through our unique approach of being digital first.
-                                </p>
-
-                                <p>
-                                Please get in touch with us today to learn how Cloud Pikr  can help your future success.  
-                                </p>
+                <div className="row justify-content-center">
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image1.png" alt="image" />
                             </div>
-                        </div>
-
-                        <div className="col-lg-6 services-details-image">
-                            <img 
-                                src="/images/services-details-image/services-details1.png" 
-                                className="animate__animated animate__fadeInUp" 
-                                alt="image" 
-                            />
+                            <h3>
+                                <Link href="/web-design-and-development">
+                                    <a>Web Design and Development</a>
+                                </Link>
+                            </h3>
+                            <ul>
+                            <li>Custom web Designing & Web Development,</li>
+                            <li>E-Commerce Development,</li> 
+                            <li>School ERP Portal, </li>
+                            <li>Market Place Development </li>
+                            <li>Jobs Portal Development.</li></ul>
+                                 
                         </div>
                     </div>
 
-                    <div className="separate"></div>
-
-                    <div className="row align-items-center">
-                        <div className="col-lg-6 services-details-image">
-                            <img 
-                                src="/images/services-details-image/services-details2.png" 
-                                className="animate__animated animate__fadeInUp" 
-                                alt="image" 
-                            />
-                        </div>
-
-                        <div className="col-lg-6 services-details">
-                            <div className="services-details-desc">
-                                <p>Took a galley of type and scrambled it to make a type specimen book. survived not only five centuries, but also the leap into electronic remaining. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer when an unknown.</p>
-
-                                <div className="services-details-accordion">
-                                    <Accordion allowZeroExpanded preExpanded={['a']}>
-                                        <AccordionItem uuid="a">
-                                            <AccordionItemHeading>
-                                                <AccordionItemButton>
-                                                    <span>
-                                                        Which material types can you work with?
-                                                    </span>
-                                                </AccordionItemButton>
-                                            </AccordionItemHeading>
-                                            <AccordionItemPanel>
-                                                <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                                                </p>
-                                            </AccordionItemPanel>
-                                        </AccordionItem>
-
-                                        <AccordionItem uuid="b">
-                                            <AccordionItemHeading>
-                                                <AccordionItemButton>
-                                                    <span>
-                                                        Is Smart Lock required for instant apps?
-                                                    </span>
-                                                </AccordionItemButton>
-                                            </AccordionItemHeading>
-                                            <AccordionItemPanel>
-                                                <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                                                </p>
-                                            </AccordionItemPanel>
-                                        </AccordionItem>
-
-                                        <AccordionItem uuid="c">
-                                            <AccordionItemHeading>
-                                                <AccordionItemButton>
-                                                    <span>
-                                                        Can I have multiple activities in a single feature?
-                                                    </span>
-                                                </AccordionItemButton>
-                                            </AccordionItemHeading>
-                                            <AccordionItemPanel>
-                                                <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                                                </p>
-                                            </AccordionItemPanel>
-                                        </AccordionItem>
-                                    </Accordion>
-                                </div>
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image2.png" alt="image" />
                             </div>
+                            <h3>
+                                <Link href="/mobile-application-development">
+                                    <a>Mobile Application Development</a>
+                                </Link>
+                            </h3>
+                            <li>Android Development </li>
+                            <li>IOS Development </li>
+                            <li>Hybrid Development </li>
+                            <li>Apps Development </li>
+                            <li>Gaming Apps Development </li>
+                            <li>Windows Apps Development</li>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image3.png" alt="image" />
+                            </div>
+                            <h3>
+                                <Link href="/ai-ml-development">
+                                    <a>AI/ML Development</a>
+                                </Link>
+                            </h3>
+                            <p>Uraninfotech has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image4.png" alt="image" />
+                            </div>
+                            <h3>
+                                <Link href="/voip-development">
+                                    <a>VoIP Development</a>
+                                </Link>
+                            </h3>
+                            <li>Voice Broadcasting Solution</li>
+                            <li>Sms Broadcasting</li>
+                            <li>Call Center Solution</li>
+                            <li>IVR Solution Development</li>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image5.png" alt="image" />
+                            </div>
+                            <h3>
+                                <Link href="/database-service">
+                                    <a>Data Base as Service </a>
+                                </Link>
+                            </h3>
+                            <li>BI & Analytics</li>
+                            <li>Database Administration</li>
+                            <li>Enterprise Performance Management</li>
+                            <li>Application Performance Management</li>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image6.png" alt="image" />
+                            </div>
+                            <h3>
+                                <Link href="/webhosting-services">
+                                    <a>Web Hosting Services</a>
+                                </Link>
+                            </h3>
+                            <li>Fast load time</li>
+                            <li>Database</li>
+                            <li>Emails</li>
+                            <li>Security Features</li>
+                            <li>Great Support</li>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <Footer />
-        </>
-    )
+            {/* Shape Images */}
+            <div className="shape1">
+                <img src="/images/shape1.png" alt="shape" />
+            </div>
+            <div className="shape2 rotateme">
+                <img src="/images/shape2.svg" alt="shape" />
+            </div>
+            <div className="shape3">
+                <img src="/images/shape3.svg" alt="shape" />
+            </div>
+            <div className="shape4">
+                <img src="/images/shape4.svg" alt="shape" />
+            </div>
+            <div className="shape7">
+                <img src="/images/shape4.svg" alt="shape" />
+            </div>
+            <div className="shape8 rotateme">
+                <img src="/images/shape2.svg" alt="shape" />
+            </div>
+        </div>
+    </>
+    );
 }
 
 export default ServiceDetails;

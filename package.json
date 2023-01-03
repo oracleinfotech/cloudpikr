@@ -16,6 +16,7 @@
         "build": "^0.1.4",
         "export": "^0.1.337",
         "next": "^12.0.4",
+        "next-link": "^2.0.0",
         "nodemailer": "^6.7.1",
         "nodemailer-sendgrid-transport": "^0.2.0",
         "react": "^17.0.2",

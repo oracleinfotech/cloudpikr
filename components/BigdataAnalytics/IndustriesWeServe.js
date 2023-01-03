@@ -64,7 +64,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bx-building'></i>
                             </div>
-                            Oracele Cloud Migration
+                            Oracle Cloud Migration
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
