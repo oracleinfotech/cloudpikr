@@ -26,14 +26,6 @@ const WhatWeDo = () => {
                             <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
 
                             <Link href="/service-details">
-                                <a className="link">Market Research</a>
-                            </Link>
-
-                            <Link href="/service-details">
-                                <a className="link">Investment Research</a>
-                            </Link>
-
-                            <Link href="/service-details">
                                 <a className="read-more-btn">
                                     <Icon.ArrowRight /> Read More
                                 </a>
@@ -56,14 +48,6 @@ const WhatWeDo = () => {
                             <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
 
                             <Link href="/service-details">
-                                <a className="link">Data Analytics</a>
-                            </Link>
-
-                            <Link href="/service-details">
-                                <a className="link">Business Intelligence</a>
-                            </Link>
-                           
-                            <Link href="/service-details">
                                 <a className="read-more-btn">
                                     <Icon.ArrowRight /> Read More
                                 </a>
@@ -83,14 +67,6 @@ const WhatWeDo = () => {
                             </h3>
                             <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
 
-                            <Link href="/service-details">
-                                <a className="link">Intelligence Automation</a>
-                            </Link>
-
-                            <Link href="/service-details">
-                                <a className="link">Quality Engineering</a>
-                            </Link>
-                            
                             <Link href="/service-details">
                                 <a className="read-more-btn">
                                     <Icon.ArrowRight /> Read More

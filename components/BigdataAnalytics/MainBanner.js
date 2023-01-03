@@ -26,8 +26,8 @@ const MainBanner = () => {
                                 <div className="icon">
                                      <img src="/images/cloud.png" />
                                 </div>
-                                <h3>Fully Managed Cloud Hosting</h3>
-                                <p>We free you up to focus on your business!</p>
+                                <h3>Fully Managed Cloud Services</h3>
+                                <p>We provide all cloud solution</p>
                             </div>
                         </div>
 
@@ -36,8 +36,8 @@ const MainBanner = () => {
                                 <div className="icon">
                                 <img src="/images/backup.png" />
                                 </div>
-                                <h3>Cloud Simplified</h3>
-                                <p>Secure, powerful and easily scalable</p>
+                                <h3>Cloud Security & audit</h3>
+                                <p>Leader in QRadar and SIEM</p>
                             </div>
                         </div>
 
@@ -46,8 +46,8 @@ const MainBanner = () => {
                                 <div className="icon">
                                 <img src="/images/enterprise.png" />
                                 </div>
-                                <h3>Implement Solution</h3>
-                                <p>Fast, reliable and efficient storage</p>
+                                <h3>Cloud Consulting</h3>
+                                <p>Solution for all cloud migration</p>
                             </div>
                         </div>
                     </div>

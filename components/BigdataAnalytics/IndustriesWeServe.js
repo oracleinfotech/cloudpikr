@@ -9,15 +9,14 @@ const IndustriesWeServe = () => {
                     <h2>Industries We Serve</h2>
 					<div className="bar"></div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-
+                </div>  
                 <div className="row justify-content-center">
                     <div className="col-lg-3 col-6 col-sm-6 col-md-4">
                         <div className="single-industries-serve-box">
                             <div className="icon">
                                 <i className='bx bx-buildings'></i>
                             </div>
-                            Manufacturing
+                            AWS Cloud Migration
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
@@ -29,7 +28,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bx-building-house'></i>
                             </div>
-                            Healthcare
+                            Cloud SIEM Migration
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
@@ -41,7 +40,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bx-car'></i>
                             </div>
-                            Automobile
+                            QRadar Setup
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
@@ -53,7 +52,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bx-credit-card'></i>
                             </div>
-                            Banking
+                            Google Cloud Solution
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
@@ -65,7 +64,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bx-building'></i>
                             </div>
-                            Real Estate
+                            Oracele Cloud Migration
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
@@ -77,7 +76,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bxs-plane-alt'></i>
                             </div>
-                            Logistics
+                            Database Solution
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
@@ -89,7 +88,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bx-group'></i>
                             </div>
-                            Insurance
+                            Automation of Industries
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>
@@ -101,7 +100,7 @@ const IndustriesWeServe = () => {
                             <div className="icon">
                                 <i className='bx bx-bitcoin'></i>
                             </div>
-                            Capital Markets
+                            Banking & Insurance
                             <Link href="/service-details">
                                 <a className="link-btn"></a>
                             </Link>

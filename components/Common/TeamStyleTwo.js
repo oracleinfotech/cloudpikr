@@ -21,7 +21,7 @@ const TeamStyleTwo = () => {
 
                             <div className="team-content">
                                 <div className="team-info">
-                                    <h3>Josh Buttler</h3>
+                                    <h3>Suchitra Kumari</h3>
                                     <span>CEO & Founder</span>
                                 </div>
 
@@ -48,7 +48,7 @@ const TeamStyleTwo = () => {
                                     </li>
                                 </ul>
 
-                                <p>Risus commodo viverra maecenas accumsan lacus vel facilisis quis ipsum.</p>
+                                <p>Risus commodo2 viverra maecenas accumsan lacus vel facilisis quis ipsum.</p>
                             </div>
                         </div>
                     </div>
@@ -61,10 +61,10 @@ const TeamStyleTwo = () => {
 
                             <div className="team-content">
                                 <div className="team-info">
-                                    <h3>Alex Maxwel</h3>
-                                    <span>CEO & Founder</span>
+                                    <h3>Gmasom Sadmds</h3>
+                                    <span>Engineer</span>
                                 </div>
-
+                               
                                 <ul>
                                     <li>
                                         <a href="https://www.facebook.com/" target="_blank">
@@ -102,7 +102,7 @@ const TeamStyleTwo = () => {
                             <div className="team-content">
                                 <div className="team-info">
                                     <h3>Janny Cotller</h3>
-                                    <span>CEO & Founder</span>
+                                    <span>Cloud Master</span>
                                 </div>
 
                                 <ul>
@@ -142,7 +142,7 @@ const TeamStyleTwo = () => {
                             <div className="team-content">
                                 <div className="team-info">
                                     <h3>Jason Statham</h3>
-                                    <span>CEO & Founder</span>
+                                    <span>Security Engineer</span>
                                 </div>
 
                                 <ul>
