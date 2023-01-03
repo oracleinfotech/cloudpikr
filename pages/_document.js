@@ -13,7 +13,7 @@ class MyDocument extends Document {
         return (
             <Html dir={dir} lang={locale}>
                 <Head>
-                    <link rel="icon" type="image/png" href="/images/favicon48.png"></link>
+                    <link rel="icon" type="image/png" href="/images/favicon48.ico"></link>
                 </Head>
                 <body>
                     <Main />
