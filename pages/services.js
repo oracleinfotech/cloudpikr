@@ -29,19 +29,14 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image1.png" alt="image" />
+                                <img src="/images/services-details-image/service-image7.png" style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/web-design-and-development">
-                                    <a>Web Design and Development</a>
+                                    <a>AWS Consulting</a>
                                 </Link>
                             </h3>
-                            <ul>
-                            <li>Custom web Designing & Web Development,</li>
-                            <li>E-Commerce Development,</li> 
-                            <li>School ERP Portal, </li>
-                            <li>Market Place Development </li>
-                            <li>Jobs Portal Development.</li></ul>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
                                  
                         </div>
                     </div>
@@ -49,87 +44,115 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image2.png" alt="image" />
+                                <img src="/images/services-details-image/service-image8.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/mobile-application-development">
-                                    <a>Mobile Application Development</a>
+                                    <a>Cloud Migration</a>
                                 </Link>
                             </h3>
-                            <li>Android Development </li>
-                            <li>IOS Development </li>
-                            <li>Hybrid Development </li>
-                            <li>Apps Development </li>
-                            <li>Gaming Apps Development </li>
-                            <li>Windows Apps Development</li>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image3.png" alt="image" />
+                                <img src="/images/services-details-image/service-image9.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/ai-ml-development">
-                                    <a>AI/ML Development</a>
+                                    <a> Cloud Consulting </a>
                                 </Link>
                             </h3>
-                            <p>Uraninfotech has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image4.png" alt="image" />
+                                <img src="/images/services-details-image/service-image4.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/voip-development">
-                                    <a>VoIP Development</a>
+                                    <a>DevOps Consulting</a>
                                 </Link>
                             </h3>
-                            <li>Voice Broadcasting Solution</li>
-                            <li>Sms Broadcasting</li>
-                            <li>Call Center Solution</li>
-                            <li>IVR Solution Development</li>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image5.png" alt="image" />
+                                <img src="/images/services-details-image/service-image5.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/database-service">
-                                    <a>Data Base as Service </a>
+                                    <a> Cloud Security & Compliance </a>
                                 </Link>
                             </h3>
-                            <li>BI & Analytics</li>
-                            <li>Database Administration</li>
-                            <li>Enterprise Performance Management</li>
-                            <li>Application Performance Management</li>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image6.png" alt="image" />
+                                <img src="/images/services-details-image/service-image6.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/webhosting-services">
-                                    <a>Web Hosting Services</a>
+                                    <a>vCloud Hosting </a>
                                 </Link>
                             </h3>
-                            <li>Fast load time</li>
-                            <li>Database</li>
-                            <li>Emails</li>
-                            <li>Security Features</li>
-                            <li>Great Support</li>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
                         </div>
                     </div>
+
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image1.png"  style={{width: "198px"}}  alt="image" />
+                            </div>
+                            <h3>
+                                <Link href="/voip-development">
+                                    <a>Infrastructure Management </a>
+                                </Link>
+                            </h3>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image5.png"  style={{width: "198px"}} alt="image" />
+                            </div>
+                            <h3>
+                                <Link href="/database-service">
+                                    <a> SIEM Solution  </a>
+                                </Link>
+                            </h3>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-ml-services-box">
+                            <div className="image">
+                                <img src="/images/services-details-image/service-image6.png"  style={{width: "198px"}} alt="image" />
+                            </div>
+                            <h3>
+                                <Link href="/webhosting-services">
+                                    <a>QRadar Consulting </a>
+                                </Link>
+                            </h3>
+                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 

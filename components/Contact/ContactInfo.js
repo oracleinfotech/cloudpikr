@@ -10,10 +10,13 @@ const ContactInfo = () => {
                         <div className="contact-info-box">
                             <div className="icon">
                                 <Icon.Mail />
-                            </div>
+                            </div> 
                             <h3>Mail Here</h3>
-                            <p><a href="mailto:info@gmail.com">info@moodleconsultancy.com</a></p>
-                            <p style={{visibility:'hidden'}}><a href="mailto:info@gmail.com">info@moodleconsultancy.com</a></p>
+                            <p><a href="mailto:sales@cloudpikr.com">Sales: sales@cloudpikr.com</a></p>
+                            <p><a href="mailto:info@cloudpikr.com">Information : info@cloudpikr.com</a></p>
+                            <p><a href="mailto:suchitra@cloudpikr.com">HR Info: suchitra@cloudpikr.com</a></p>
+
+                            <p style={{visibility:'hidden'}}><a href="mailto:info@cloudpikr.com">info@cloudpikr.com</a></p>
                         </div>
                     </div>
 
@@ -23,8 +26,8 @@ const ContactInfo = () => {
                                 <Icon.MapPin />
                             </div>
                             <h3>Visit Here</h3>
-                            <p>Electronic City, Bangalore, Karnataka - 06</p>
-                            <p style={{visibility:'hidden'}}>Electronic City, Bangalore, Karnataka - 06</p>
+                            <p>13001 Zen Villa Dr, Austin,TX, 78739</p>
+                            <p style={{visibility:'hidden'}}>13001 Zen Villa Dr, Austin,TX, 78739</p>
                         </div>
                     </div>
 
@@ -33,9 +36,8 @@ const ContactInfo = () => {
                             <div className="icon">
                                 <Icon.Phone />
                             </div>
-                            <h3>Call Here</h3>
-                            <p>Zalo: <a href onClick={e=> e.preventDefault()}>+ (84) 908 850 2643</a></p>
-                            <p>Phone: <a href="tel:+91 8971987004">+ (91) 897 198 7004</a></p>
+                            <h3>Call Here</h3>                           
+                            <p>Phone: <a href="tel:+1 737 207 0295">+1 737 207 0295</a></p>
                         </div>
                     </div>
                 </div>

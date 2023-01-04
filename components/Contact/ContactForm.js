@@ -62,7 +62,7 @@ const ContactForm = () => {
 
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
-                        <img src="/images/contact-img.png" alt="image" />
+                        <img src="/images/contact-img2.png" alt="image" />
                     </div>
 
                     <div className="col-lg-6 col-md-12">
