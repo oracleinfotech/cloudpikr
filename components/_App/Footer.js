@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import * as Icon from 'react-feather';
+import FloatingWhatsApp from 'react-floating-whatsapp';
 
 const Footer = () => {
 
@@ -8,7 +9,8 @@ const Footer = () => {
 
     return (
         <footer className="footer-area bg-f7fafd">
-            <div className="container">
+            <FloatingWhatsApp /> 
+              <div className="container">
                 <div className="row">
                     <div className="col-lg-3 col-md-6">
                         <div className="single-footer-widget">

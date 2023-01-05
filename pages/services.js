@@ -176,6 +176,7 @@ const ServiceDetails = () => {
                 <img src="/images/shape2.svg" alt="shape" />
             </div>
         </div>
+        <Footer />
     </>
     );
 }
