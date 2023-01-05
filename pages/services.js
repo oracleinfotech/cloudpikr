@@ -29,7 +29,7 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image7.png" style={{width: "198px"}} alt="image" />
+                                <img src="/images/services-details-image/service-image7.png" style={{width: "208px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/web-design-and-development">
@@ -44,7 +44,7 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image8.png"  style={{width: "198px"}} alt="image" />
+                                <img src="/images/services-details-image/service-image8.png"  style={{width: "258px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/mobile-application-development">
@@ -58,7 +58,7 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image9.png"  style={{width: "198px"}} alt="image" />
+                                <img src="/images/services-details-image/service-image9.png"  style={{width: "258px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/ai-ml-development">
@@ -72,7 +72,7 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image4.png"  style={{width: "198px"}} alt="image" />
+                                <img src="/images/services-details-image/service-image-devops.png"   alt="image" />
                             </div>
                             <h3>
                                 <Link href="/voip-development">
@@ -86,7 +86,7 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image5.png"  style={{width: "198px"}} alt="image" />
+                                <img src="/images/services-details-image/service-image4.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/database-service">
@@ -128,7 +128,7 @@ const ServiceDetails = () => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="single-ml-services-box">
                             <div className="image">
-                                <img src="/images/services-details-image/service-image5.png"  style={{width: "198px"}} alt="image" />
+                                <img src="/images/services-details-image/service-image-siem.png"  style={{width: "258px"}} alt="image" />
                             </div>
                             <h3>
                                 <Link href="/database-service">
