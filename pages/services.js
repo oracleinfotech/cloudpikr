@@ -22,7 +22,7 @@ const ServiceDetails = () => {
                     <span className="sub-title">Our Solutions</span>
                     <h2>Our Services</h2>
                     <div className="bar"></div>
-                    <p>We provide best web & app development services in Kolkata, India</p>
+                    <p>We provide best web & app development services in India</p>
                 </div>
 
                 <div className="row justify-content-center">
@@ -103,11 +103,11 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image6.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
-                                <Link href="/webhosting-services">
-                                    <a>vCloud Hosting </a>
+                                <Link href="/cloud-hosting">
+                                    <a>Cloud Hosting </a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>As define Cloud hosting makes websites and applications both accessible using cloud resources. while traditional hosting did not ,the solutions are not deployed on a single server </p>
                         </div>
                     </div>
 
@@ -117,11 +117,11 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image1.png"  style={{width: "198px"}}  alt="image" />
                             </div>
                             <h3>
-                                <Link href="/voip-development">
+                                <Link href="/infrastructure-management">
                                     <a>Infrastructure Management </a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>We provide relevant expertise to ensure that company's core IT infrastructure which can adapt to the market's dynamic needs, prepare for the digital age and deliver business value</p>
                         </div>
                     </div>
 
@@ -131,11 +131,11 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image-siem.png"  style={{width: "258px"}} alt="image" />
                             </div>
                             <h3>
-                                <Link href="/database-service">
+                                <Link href="/siem-solution">
                                     <a> SIEM Solution  </a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>The Combining security information management (SIM) & security event management (SEM), security information & event management (SIEM) offers real-time monitoring & analysis of events as well as tracking and logging of auditing purposes. </p>
                         </div>
                     </div>
 
@@ -145,7 +145,7 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image6.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
-                                <Link href="/webhosting-services">
+                                <Link href="/qradar-consulting">
                                     <a>QRadar Consulting </a>
                                 </Link>
                             </h3>
