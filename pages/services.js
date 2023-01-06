@@ -32,11 +32,11 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image7.png" style={{width: "208px"}} alt="image" />
                             </div>
                             <h3>
-                                <Link href="/web-design-and-development">
+                                <Link href="/aws-consulting">
                                     <a>AWS Consulting</a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>We are certified with AWS Professionals. Our team has good experience in clould service.We Work as a team to provide clould expertise like migrating to clould or optimizing existing clould infrastructure.  </p>
                                  
                         </div>
                     </div>
@@ -47,11 +47,11 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image8.png"  style={{width: "258px"}} alt="image" />
                             </div>
                             <h3>
-                                <Link href="/mobile-application-development">
+                                <Link href="/cloud-migration">
                                     <a>Cloud Migration</a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>Cloud migration is the process of moving a company’s digital means, services, databases, IT resources, Cloud migration is also about moving from to another.</p>
                         </div>
                     </div>
 
@@ -61,7 +61,7 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image9.png"  style={{width: "258px"}} alt="image" />
                             </div>
                             <h3>
-                                <Link href="/ai-ml-development">
+                                <Link href="/cloud-consulting">
                                     <a> Cloud Consulting </a>
                                 </Link>
                             </h3>
@@ -75,7 +75,7 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image-devops.png"   alt="image" />
                             </div>
                             <h3>
-                                <Link href="/voip-development">
+                                <Link href="/devops-consulting">
                                     <a>DevOps Consulting</a>
                                 </Link>
                             </h3>
