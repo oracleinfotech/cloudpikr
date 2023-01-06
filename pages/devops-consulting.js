@@ -81,7 +81,7 @@ const Devopsconsulting = () => {
                                 <h3>Value We Add</h3>
                                 <p>Our DevOps services company and DevOps solutions offers such as:</p>
                                 <li>	Custom-developed monitoring solution</li>
-                                <li>Resiliency</li>
+                                <li>    Resiliency</li>
                                 <li>	Scalability</li>
                                 <li>	Automated infrastructure provisioning</li>
                                 <li>	Increased agility</li>

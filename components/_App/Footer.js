@@ -99,13 +99,13 @@ const Footer = () => {
                                     <Icon.Mail />
                                     Email: <a href="mailto:info@gmail.com">info@cloudpikr.com</a>
                                 </li>
-                                <li> 
+                                {/* <li> 
                                     <img src="/images/zalo-seeklogo.svg" alt="" />
                                     Zalo: <a href onClick={e=> e.preventDefault()}>+ (714) 923 333 444</a>
-                                </li>
+                                </li> */}
                                 <li> 
                                     <Icon.PhoneCall />
-                                    Phone: <a href="tel:+91 3445556664">+ (91) 3445556664</a>
+                                    Phone: <a href="tel:+1 7372180471">+1 (737) 218-0471</a>
                                 </li>
                             </ul>
                             <ul className="social-links">

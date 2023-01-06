@@ -65,7 +65,7 @@ const ServiceDetails = () => {
                                     <a> Cloud Consulting </a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>Cloud migration is the process of moving a company’s digital means, services, databases, IT resources, Cloud migration is also about moving from to another.</p>
                         </div>
                     </div>
 
@@ -79,7 +79,7 @@ const ServiceDetails = () => {
                                     <a>DevOps Consulting</a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>We offer following  DevOps consulting services to our customers with services encompassing several capabilities, including iterative and incremental development </p>
                         </div>
                     </div>
 
@@ -89,11 +89,11 @@ const ServiceDetails = () => {
                                 <img src="/images/services-details-image/service-image4.png"  style={{width: "198px"}} alt="image" />
                             </div>
                             <h3>
-                                <Link href="/database-service">
+                                <Link href="/cloud-security-and-compliance">
                                     <a> Cloud Security & Compliance </a>
                                 </Link>
                             </h3>
-                            <p>Cloudpikr has specialized and experienced developers, with experiences in skill sets like ML, RPA, NLP, BI, Analytics DL & Cognitive Computing etc. </p>
+                            <p>It is an art and science of complying with regulatory standards of usage of clould in accordance with industry guidelines and local, national, and international laws</p>
                         </div>
                     </div>
 
