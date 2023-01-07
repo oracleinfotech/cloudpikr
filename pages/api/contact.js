@@ -11,7 +11,11 @@ const transporter = {
 const mailer = nodemailer.createTransport(sgTransport(transporter));
 
 export default async (req, res) => {
-    console.log(req.body)
+
+    //Endpoint (request URL): 
+   //  URL='https://moodleconsultancy.com/workscripts/endpoints/mailer.php'
+
+   // console.log(req.body)
     const {name, email, number, subject, text} = req.body;
     const data = {
         // Update email address here
@@ -27,9 +31,12 @@ export default async (req, res) => {
         ` 
     };
     try {
-        const response = await mailer.sendMail(data);
-        console.log(response)
-        res.status(200).send("Email send successfully")
+        // const response = await mailer.sendMail(data);
+        // console.log(response)
+        // res.status(200).send("Email send successfully")
+
+        URL='https://moodleconsultancy.com/workscripts/endpoints/mailer.php'
+
     } catch (error) {
         console.log(error);
         res.status(500).send("Error proccessing charge");

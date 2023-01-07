@@ -53,7 +53,7 @@ const Infrastructuremanagement = () => {
 
             <div className="col-lg-6 services-details-image">
               <img
-                src="/images/services-details-image/Infrastructure-Managemen-1.png"
+                src="/images/services-details-image/infrastructure-management.png"
                 className="animate__animated animate__fadeInUp"
                 alt="image"
               />
@@ -62,10 +62,10 @@ const Infrastructuremanagement = () => {
 
           <div className="separate"></div>
 
-          <div className="row align-items-center">
+          <div className="row ">
             <div className="col-lg-6 services-details-image">
               <img
-                src="/images/services-details-image/infrastructure-management.png"
+                src="/images/services-details-image/infrastructure-management2.png"
                 className="animate__animated animate__fadeInUp"
                 alt="image"
               />

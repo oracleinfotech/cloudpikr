@@ -9,7 +9,7 @@ const Footer = () => {
 
     return (
         <footer className="footer-area bg-f7fafd">
-            <FloatingWhatsApp /> 
+            <FloatingWhatsApp  /> 
               <div className="container">
                 <div className="row">
                     <div className="col-lg-3 col-md-6">
