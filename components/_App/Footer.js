@@ -9,7 +9,16 @@ const Footer = () => {
 
     return (
         <footer className="footer-area bg-f7fafd">
-            <FloatingWhatsApp  /> 
+            <FloatingWhatsApp 
+            phoneNumber="17372180471"
+            accountName="Cloud Pikr"
+            avatar="images/cloudpikr-02.png"
+            allowEsc
+            allowClickAway
+            notification
+            notificationSound         
+             /> 
+
               <div className="container">
                 <div className="row">
                     <div className="col-lg-3 col-md-6">
