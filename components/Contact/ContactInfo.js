@@ -25,9 +25,14 @@ const ContactInfo = () => {
                             <div className="icon">
                                 <Icon.MapPin />
                             </div>
+                            <p></p>
                             <h3>Visit Here</h3>
+                            <p></p>
                             <p>13001 Zen Villa Dr, Austin,TX, 78739</p>
+                            <p></p>
                             <p style={{visibility:'hidden'}}>13001 Zen Villa Dr, Austin,TX, 78739</p>
+                            <p></p>
+                            <br/><br/>
                         </div>
                     </div>
 
@@ -38,6 +43,8 @@ const ContactInfo = () => {
                             </div>
                             <h3>Call Here</h3>                           
                             <p>Phone: <a href="tel:+1 737 207 0295">+1 737 207 0295</a></p>
+                            <br/><br/> <br/>
+
                         </div>
                     </div>
                 </div>
