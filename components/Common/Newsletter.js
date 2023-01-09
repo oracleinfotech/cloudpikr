@@ -13,11 +13,11 @@ const Newsletter = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="free-trial-content">
-                            <h2>Start your free trial</h2>
+                            <h2>Subscribe Us for updates</h2>
 
                             <form className="newsletter-form">
                                 <input type="email" className="input-newsletter" placeholder="Enter your business email here" />
-                                <button type="submit">Sign Up Free</button>
+                                <button type="submit">Subscribe</button>
                             </form>
 
                             <p>Test out the Machine Learning features for 14 days, no credit card required.</p>
