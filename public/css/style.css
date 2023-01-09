@@ -7098,6 +7098,7 @@ Contact CSS
           box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
   background: #ffffff;
   padding: 30px;
+  border-top: 2px solid #1d40c5;
 }
 
 .contact-info-box .icon {

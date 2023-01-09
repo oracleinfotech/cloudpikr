@@ -11,14 +11,22 @@ const About = () => {
         <>
             <Navbar />
 
-            <PageBanner pageTitle="About Us" />
+            <br/>
+        <div className="ml-services-area ptb-80">
+            <div className="container">
+                <div className="section-title">
+                    {/* <span className="sub-title">Our Solutions</span> */}
+                    <h2>About Us</h2>
+                    <div className="bar"></div>
+                    {/* <p>We provide best web & app development services in India</p> */}
+                </div> </div> </div>
 
             <div className="about-area ptb-80">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="about-image">
-                                <img src="/images/about-one.png" alt="image" />
+                                <img src="/images/about-us-cloudpikr.webp" alt="image" />
                             </div>
                         </div>
 

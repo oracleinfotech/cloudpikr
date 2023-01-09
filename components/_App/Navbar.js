@@ -64,7 +64,7 @@ const NavbarStyleFour = () => {
                                 <li className="nav-item">
                                     <Link href="/about">
                                         <a onClick={toggleNavbar}   className="nav-link">
-                                            ABOUTUS
+                                            ABOUT US
                                         </a>
                                     </Link>  
                                 </li>
