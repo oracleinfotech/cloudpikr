@@ -8,7 +8,7 @@ const IndustriesWeServe = () => {
                 <div className="section-title">
                     <h2>Industries We Serve</h2>
 					<div className="bar"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                   
                 </div>  
                 <div className="row justify-content-center">
                     <div className="col-lg-3 col-6 col-sm-6 col-md-4">

@@ -26,7 +26,7 @@ const Footer = () => {
                             <div className="logo">
                                 <Link href="/it-startup">
                                     <a>
-                                        <img src="/images/cloudpikr-logo.png" alt="logo" />
+                                        <img src="/images/cloudpikr-logo-1.png" alt="logo" />
                                     </a>
                                 </Link>
                             </div>

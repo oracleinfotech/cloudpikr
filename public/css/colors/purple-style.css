@@ -29,7 +29,7 @@ a:hover, a:focus {
 }
 
 .btn::after, .btn::before {
-  background: #44ce6f;
+  background: #475ae9;
 }
 
 .owl-theme .owl-dots .owl-dot:hover span, .owl-theme .owl-dots .owl-dot.active span {
@@ -99,7 +99,7 @@ a:hover, a:focus {
 }
 
 .startp-nav nav .others-option .btn.btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
           box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }
@@ -128,7 +128,7 @@ a:hover, a:focus {
 }
 
 .others-option-for-responsive .option-inner .others-option .btn.btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
           box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }
@@ -197,7 +197,7 @@ a:hover, a:focus {
 }
 
 .single-team .team-content ul li a {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .single-team .team-content ul li a:hover {
@@ -225,7 +225,7 @@ a:hover, a:focus {
 }
 
 .contact-cta-box .btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
           box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }
@@ -244,7 +244,7 @@ a:hover, a:focus {
 }
 
 .pricing-table.active-plan .btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
           box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }
@@ -260,7 +260,7 @@ a:hover, a:focus {
 }
 
 .single-pricing-table.active-plan .btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
           box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }
@@ -276,7 +276,7 @@ a:hover, a:focus {
 }
 
 .domain-search-content form button:hover, .domain-search-content form button:focus {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .feedback-slides .client-feedback .single-feedback .client-img img {
@@ -284,7 +284,7 @@ a:hover, a:focus {
 }
 
 .feedback-slides .client-feedback .single-feedback span {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .feedback-slides .client-thumbnails .item .img-fill img {
@@ -313,7 +313,7 @@ a:hover, a:focus {
 }
 
 .single-feedback-item .client-info .title span {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .ready-to-talk {
@@ -321,7 +321,7 @@ a:hover, a:focus {
 }
 
 .ready-to-talk .btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
 }
 
 .single-blog-post .blog-image .date {
@@ -353,7 +353,7 @@ a:hover, a:focus {
 }
 
 #productsModalCenter .modal-content .products-content form button:hover, #productsModalCenter .modal-content .products-content form button:focus {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .products-details .availability span {
@@ -369,12 +369,12 @@ a:hover, a:focus {
 }
 
 .products-details form button:hover, .products-details form button:focus {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .products-details form .add-to-wishlist-btn:hover, .products-details form .add-to-wishlist-btn:focus {
-  background-color: #44ce6f;
-  border-color: #44ce6f;
+  background-color: #475ae9;
+  border-color: #475ae9;
 }
 
 .products-details form .buy-btn {
@@ -382,7 +382,7 @@ a:hover, a:focus {
 }
 
 .products-details form .buy-btn .btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
           box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
@@ -456,7 +456,7 @@ a:hover, a:focus {
 }
 
 .blog-details-desc .article-content .entry-meta ul li svg {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .blog-details-desc .article-content .entry-meta ul li::before {
@@ -468,7 +468,7 @@ a:hover, a:focus {
 }
 
 .blog-details-desc .article-footer .article-tags a {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .blog-details-desc .article-footer .article-tags a:hover {
@@ -493,7 +493,7 @@ a:hover, a:focus {
 }
 
 .comments-area .comment-respond .form-submit input:hover, .comments-area .comment-respond .form-submit input:focus {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .prev-link-wrapper a:hover .prev-link-info-wrapper {
@@ -529,7 +529,7 @@ blockquote::after, .blockquote::after {
 }
 
 .widget-area .widget_search form button:hover {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .widget-area .widget_recent_entries ul li::before {
@@ -598,7 +598,7 @@ blockquote::after, .blockquote::after {
 }
 
 .coming-soon-area .social-list li a {
-  background: #44ce6f;
+  background: #475ae9;
 }
 
 .coming-soon-area .social-list li a:hover, .coming-soon-area .social-list li a:focus {
@@ -610,11 +610,11 @@ blockquote::after, .blockquote::after {
 }
 
 .coming-soon-content form .submit-btn:hover, .coming-soon-content form .submit-btn:focus {
-  background: #44ce6f;
+  background: #475ae9;
 }
 
 .coming-soon-content #timer div {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .cta-area {
@@ -622,7 +622,7 @@ blockquote::after, .blockquote::after {
 }
 
 .cta-right-content .buy-btn .btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
           box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
@@ -634,7 +634,7 @@ blockquote::after, .blockquote::after {
 }
 
 .cta-right-content .buy-btn .btn-primary:hover, .cta-right-content .buy-btn .btn-primary:focus {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .repair-about-content .sub-title {
@@ -692,7 +692,7 @@ blockquote::after, .blockquote::after {
 }
 
 .single-repair-feedback .client-img span {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .iot-banner-content span {
@@ -733,7 +733,7 @@ blockquote::after, .blockquote::after {
 }
 
 .section-title .sub-title {
-  color: #44ce6f;
+  color: #475ae9;
   background-color: #d4f7df;
 }
 
@@ -744,11 +744,11 @@ blockquote::after, .blockquote::after {
 }
 
 .btn.btn-secondary::before {
-  background: #44ce6f;
+  background: #475ae9;
 }
 
 .btn.btn-secondary::after {
-  background: #44ce6f;
+  background: #475ae9;
 }
 
 .btn.btn-secondary:not(:disabled):not(.disabled).active, .btn.btn-secondary:not(:disabled):not(.disabled):active, .show > .btn.btn-secondary.dropdown-toggle {
@@ -767,7 +767,7 @@ blockquote::after, .blockquote::after {
 }
 
 .ml-about-content .sub-title {
-  color: #44ce6f;
+  color: #475ae9;
   background-color: #ffe1fd;
 }
 
@@ -792,7 +792,7 @@ blockquote::after, .blockquote::after {
 }
 
 .single-ml-feedback-item .client-info span {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .ml-feedback-slides .owl-dots .owl-dot span::before {
@@ -813,7 +813,7 @@ blockquote::after, .blockquote::after {
 }
 
 .free-trial-content form button:hover {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .single-ml-projects-box .plus-icon a {
@@ -821,7 +821,7 @@ blockquote::after, .blockquote::after {
 }
 
 .single-ml-projects-box .plus-icon a:hover {
-  background-color: #44ce6f;
+  background-color: #475ae9;
 }
 
 .ml-projects-slides.owl-theme .owl-dots .owl-dot span::before {
@@ -841,7 +841,7 @@ blockquote::after, .blockquote::after {
 }
 
 .agency-about-content .sub-title {
-  color: #44ce6f;
+  color: #475ae9;
   background-color: #d4f7df;
 }
 
@@ -859,7 +859,7 @@ blockquote::after, .blockquote::after {
 }
 
 .single-testimonials-item .client-info span {
-  color: #44ce6f;
+  color: #475ae9;
 }
 
 .single-blog-post-item .post-content .post-meta li a:hover {
@@ -880,11 +880,11 @@ blockquote::after, .blockquote::after {
 }
 
 .single-footer-widget ul.social-links li a {
-  border-color: #44ce6f;
+  border-color: #475ae9;
 }
 
 .single-footer-widget ul.social-links li a:hover {
-  background: #44ce6f;
+  background: #475ae9;
   color: #ffffff;
 }
 
@@ -893,7 +893,7 @@ blockquote::after, .blockquote::after {
 }
 
 .go-top:hover {
-  background: #44ce6f;
+  background: #475ae9;
 }
 
 .agency-portfolio-home-slides.owl-theme .owl-nav [class*='owl-']:hover {
@@ -914,7 +914,7 @@ blockquote::after, .blockquote::after {
 }
 
 .navbar-color-white .startp-nav nav .others-option .btn.btn-primary {
-  background: #44ce6f;
+  background: #475ae9;
   -webkit-box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
           box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }

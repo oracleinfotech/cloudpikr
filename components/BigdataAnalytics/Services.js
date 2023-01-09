@@ -22,8 +22,9 @@ const Services = () => {
                                 <Link href="/cloud-advisory-service">
                                     <a>Cloud Advisory Service</a>
                                 </Link>
+                                <br/>
                             </h3>
-                            <p>Cloud has changed the way many organizations operate, both allowing for and forcing rapid innovation for IT teams.   </p>
+                            <p><br/>Cloud has changed the way many organizations operate, both allowing for and forcing rapid innovation for IT teams.   </p>
                             
                             <Link href="/cloud-advisory-service">
                                 <a className="learn-more-btn">
@@ -95,7 +96,7 @@ const Services = () => {
                                     <a>Security/Risk Assessment Service</a>
                                 </Link>
                             </h3>
-                            <p>The purpose of this engagement is to make sure we protect the cloud tenancy from pre-existing conditions or vulnerabilities. </p>
+                            <p><br/>The purpose of this engagement is to make sure we protect the cloud tenancy from pre-existing conditions or vulnerabilities. </p>
                             
                             <Link href="/security-risk-assessment-service">
                                 <a className="learn-more-btn">

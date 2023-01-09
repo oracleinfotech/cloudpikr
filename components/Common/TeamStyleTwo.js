@@ -96,7 +96,7 @@ const TeamStyleTwo = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="single-team">
                             <div className="team-image">
-                                <img src='/images/team-image/team3.jpg' alt="image" />
+                                <img src='/images/team-image/team3.png' alt="image" />
                             </div>
 
                             <div className="team-content">
@@ -136,7 +136,7 @@ const TeamStyleTwo = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="single-team">
                             <div className="team-image">
-                                <img src='/images/team-image/team4.jpg' alt="image" />
+                                <img src='/images/team-image/team4.png' alt="image" />
                             </div>
 
                             <div className="team-content">
