@@ -9,7 +9,7 @@ const BlogPost = () => {
 				<div className="section-title">
 					<h2>Recent Blog</h2>
 					<div className="bar"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					 
                 </div>
                 
                 <div className="row justify-content-center">
@@ -27,16 +27,17 @@ const BlogPost = () => {
                                 <div className="entry-meta">
                                     <ul>
                                         <li><a href="#">Admin</a></li>
-                                        <li>August 15, 2021</li>
+                                        <li>August 15, 2022</li>
                                     </ul>
                                 </div>
 
                                 <h3>
                                     <Link href="/blog-details">
-                                        <a>Making Peace With The Feast Or Famine Of Freelancing</a>
+                                        <a>Managed Clould Services</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
+                                <p>Our Managed Clould Services are purpose-built to support teams 
+with seeking that edge in the cloud,improving performance, reducing cost and availability.</p>
 
                                 <Link href="/blog-details">
                                     <a className="learn-more-btn">
@@ -65,10 +66,11 @@ const BlogPost = () => {
 
                                 <h3>
                                     <Link href="/blog-details">
-                                        <a>I Used The Web For A Day On A 50 MB Budget</a>
+                                        <a> Security & Compliance</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
+                                <p>As organizations embrace the scalability and flexibility of the cloud,
+we evolve security, identity, and compliance into key business enablers. </p>
                                 
                                 <Link href="/blog-details">
                                     <a className="learn-more-btn">
@@ -91,16 +93,17 @@ const BlogPost = () => {
                                 <div className="entry-meta">
                                     <ul>
                                         <li><a href="#">Admin</a></li>
-                                        <li>August 15, 2021</li>
+                                        <li>August 15, 2022</li>
                                     </ul>
                                 </div>
 
                                 <h3>
                                     <Link href="/blog-details">
-                                        <a>Here are the 5 most telling signs of micromanagement</a>
+                                        <a>Clould Consulting</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
+                                <p>Our Professional Services organization is a global team of experts
+that can help you realize your desired business outcomes when using the our Cloud Services.</p>
                                 
                                 <Link href="/blog-details">
                                     <a className="learn-more-btn">

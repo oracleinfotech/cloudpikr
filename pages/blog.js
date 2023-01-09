@@ -10,8 +10,8 @@ const Blog = () => {
         <>
             <Navbar />
 
-            <PageBanner pageTitle="Blog Grid" />
- 
+            <PageBanner pageTitle="Recent Blog" />
+            
             <div className="blog-area ptb-80">
                 <div className="container">
                     <div className="row justify-content-center">
@@ -32,13 +32,14 @@ const Blog = () => {
                                 <div className="blog-post-content">
                                     <h3>
                                         <Link href="/blog-details">
-                                            <a>The Security Risks of Changing Package Owners</a>
+                                            <a>Managed Clould Services</a>
                                         </Link>
                                     </h3>
 
                                     <span>By <a href="#">Admin</a></span>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                    <p>Our Managed Clould Services are purpose-built to support teams 
+with seeking that edge in the cloud,improving performance, reducing cost and availability.</p>
 
                                     <Link href="/blog-details">
                                         <a className="read-more-btn">
@@ -66,13 +67,14 @@ const Blog = () => {
                                 <div className="blog-post-content">
                                     <h3>
                                         <Link href="/blog-details">
-                                            <a>Tips to Protecting Your Business and Family</a>
+                                            <a> Security & Compliance</a>
                                         </Link>
                                     </h3>
 
-                                    <span>By <a href="#">Smith</a></span>
+                                    <span>By <a href="#">Head of Security & Compliance</a></span>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                    <p> As organizations embrace the scalability and flexibility of the cloud,
+we evolve security, identity, and compliance into key business enablers. </p>
 
                                     <Link href="/blog-details">
                                         <a className="read-more-btn">
@@ -100,13 +102,14 @@ const Blog = () => {
                                 <div className="blog-post-content"> 
                                     <h3>
                                         <Link href="/blog-details">
-                                            <a>Protect Your Workplace from Cyber Attacks</a>
+                                            <a>Clould Consulting</a>
                                         </Link>
                                     </h3>
 
-                                    <span>By <a href="#">John</a></span>
+                                    <span>By <a href="#">Clould Consulting Head</a></span>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                    <p>Our Professional Services organization is a global team of experts
+that can help you realize your desired business outcomes when using the our Cloud Services.</p>
 
                                     <Link href="/blog-details">
                                         <a className="read-more-btn">
@@ -117,126 +120,6 @@ const Blog = () => {
                             </div>
                         </div>
                         
-                        <div className="col-lg-4 col-md-6">
-                            <div className="single-blog-post">
-                                <div className="blog-image">
-                                    <Link href="/blog-details">
-                                        <a>
-                                            <img src="/images/blog-image/blog4.jpg" alt="image" />
-                                        </a>
-                                    </Link>
-
-                                    <div className="date">
-                                        <Icon.Calendar /> March 15, 2021
-                                    </div>
-                                </div>
-
-                                <div className="blog-post-content">
-                                    <h3>
-                                        <Link href="/blog-details">
-                                            <a>Here are the 5 most telling signs of micromanagement</a>
-                                        </Link>
-                                    </h3>
-
-                                    <span>By <a href="#">Admin</a></span>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-
-                                    <Link href="/blog-details">
-                                        <a className="read-more-btn">
-                                            Read More <Icon.ArrowRight />
-                                        </a>
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-md-6">
-                            <div className="single-blog-post">
-                                <div className="blog-image">
-                                    <Link href="/blog-details">
-                                        <a>
-                                            <img src="/images/blog-image/blog5.jpg" alt="image" />
-                                        </a>
-                                    </Link>
-
-                                    <div className="date">
-                                        <Icon.Calendar /> March 17, 2021
-                                    </div>
-                                </div>
-
-                                <div className="blog-post-content">
-                                    <h3>
-                                        <Link href="/blog-details">
-                                            <a>I Used The Web For A Day On A 50 MB Budget</a>
-                                        </Link>
-                                    </h3>
-
-                                    <span>By <a href="#">Smith</a></span>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-
-                                    <Link href="/blog-details">
-                                        <a className="read-more-btn">
-                                            Read More <Icon.ArrowRight />
-                                        </a>
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-md-6">
-                            <div className="single-blog-post">
-                                <div className="blog-image">
-                                    <Link href="/blog-details">
-                                        <a>
-                                            <img src="/images/blog-image/blog6.jpg" alt="image" />
-                                        </a>
-                                    </Link>
-
-                                    <div className="date">
-                                        <Icon.Calendar /> March 19, 2021
-                                    </div>
-                                </div>
-
-                                <div className="blog-post-content">
-                                    <h3>
-                                        <Link href="/blog-details">
-                                            <a>Making Peace With The Feast Or Famine Of Freelancing</a>
-                                        </Link>
-                                    </h3>
-
-                                    <span>By <a href="#">John</a></span>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-
-                                    <Link href="/blog-details">
-                                        <a className="read-more-btn">
-                                            Read More <Icon.ArrowRight />
-                                        </a>
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        {/* Pagination */}
-                        <div className="col-lg-12 col-md-12">
-                            <div className="pagination-area">
-                                <nav aria-label="Page navigation">
-                                    <ul className="pagination justify-content-center">
-                                        <li className="page-item"><a className="page-link" href="#">Prev</a></li>
-                                        
-                                        <li className="page-item active"><a className="page-link" href="#">1</a></li>
-                                        
-                                        <li className="page-item"><a className="page-link" href="#">2</a></li>
-                                        
-                                        <li className="page-item"><a className="page-link" href="#">3</a></li>
-                                        
-                                        <li className="page-item"><a className="page-link" href="#">Next</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
                     </div>
                 </div>
 		    </div>
