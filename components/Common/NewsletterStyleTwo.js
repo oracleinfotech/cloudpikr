@@ -13,11 +13,11 @@ const NewsletterStyleTwo = () => {
     
                     <div className="col-lg-6 col-md-12 p-0">
                         <div className="newsletter-content">
-                            <h2>Start your free trial</h2>
+                            <h2>Subscribe Us for updates</h2>
 
                             <form className="newsletter-form">
                                 <input type="email" className="input-newsletter" placeholder="Enter your business email here" />
-                                <button type="submit">Sign Up Free</button>
+                                <button type="submit">Subscribe</button>
                             </form>
                             
                             <p>Test out the Big Data Analytics features for 14 days, no credit card required.</p>

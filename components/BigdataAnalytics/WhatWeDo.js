@@ -9,7 +9,7 @@ const WhatWeDo = () => {
 				<div className="section-title">
 					<h2>What We Do</h2>
 					<div className="bar"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					 
 				</div>
 
 				<div className="row justify-content-center">
@@ -19,13 +19,13 @@ const WhatWeDo = () => {
                                 <i className="flaticon-monitor"></i>
                             </div>
                             <h3>
-                                <Link href="/service-details">
-                                    <a>Research</a>
+                                <Link href="/cloud-consulting">
+                                    <a>Cloud Consulting</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                            <p>Consultations for the C-suite  define the skills and trainings required for the project's success, if you choose the right cloud services.</p>
 
-                            <Link href="/service-details">
+                            <Link href="/cloud-consulting">
                                 <a className="read-more-btn">
                                     <Icon.ArrowRight /> Read More
                                 </a>
@@ -40,14 +40,13 @@ const WhatWeDo = () => {
                             </div>
                             
                             <h3>
-                                <Link href="/service-details">
-                                    <a>Analytics</a>
+                                <Link href="/cloud-migration">
+                                    <a>Cloud Migration</a>
                                 </Link>
                             </h3>
 
-                            <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-
-                            <Link href="/service-details">
+                            <p>Cloud migration is the process of moving a company’s digital means, services, databases, IT resources, Cloud migration is also about moving from to another.</p> 
+                            <Link href="/cloud-migration">
                                 <a className="read-more-btn">
                                     <Icon.ArrowRight /> Read More
                                 </a>
@@ -61,13 +60,13 @@ const WhatWeDo = () => {
                                 <i className="flaticon-software"></i>
                             </div>
                             <h3>
-                                <Link href="/service-details">
-                                    <a>Technology</a>
+                                <Link href="/cloud-security-and-compliance">
+                                    <a>Cloud Security</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit consectetur, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                            <p>Public, Private, Hybrid & Multi  Clould Consulting Services :- Enjoy the ease of use and maintenance, flexible pricing, and near-unlimited scalability.</p>
 
-                            <Link href="/service-details">
+                            <Link href="/cloud-security-and-compliance">
                                 <a className="read-more-btn">
                                     <Icon.ArrowRight /> Read More
                                 </a>
