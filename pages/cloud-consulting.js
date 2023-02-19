@@ -41,7 +41,7 @@ const cloudconsulting = () => {
                 </p>
                 <p>
                   <b> Multi Clould Consulting Services :- </b>Capitalize on the
-                  unique offers from a variety of cloud vendors
+                  unique offers from a variety of cloud vendors.
                 </p>
               </div>
             </div>
