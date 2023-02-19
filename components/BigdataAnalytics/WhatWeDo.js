@@ -23,7 +23,7 @@ const WhatWeDo = () => {
                                     <a>Cloud Consulting</a>
                                 </Link>
                             </h3>
-                            <p>Consultations for the C-suite  define the skills and trainings required for the project's success, if you choose the right cloud services.</p>
+                            <p>CloudPikr helps businesses navigate the complex world of cloud computing,delivering expert guidance and support for optimizing and modernizing their IT infrastructure.Whether you're looking to migrate your existing workloads to the cloud,build new cloud-native applications, or optimize your current cloud deployments,our team of experts is here to help.</p>
 
                             <Link href="/cloud-consulting">
                                 <a className="read-more-btn">
@@ -41,11 +41,11 @@ const WhatWeDo = () => {
                             
                             <h3>
                                 <Link href="/cloud-migration">
-                                    <a>Cloud Migration</a>
+                                    <a>Cloud Security & Audit</a>
                                 </Link>
                             </h3>
 
-                            <p>Cloud migration is the process of moving a company’s digital means, services, databases, IT resources, Cloud migration is also about moving from to another.</p> 
+                            <p>CloudPikr ensures the safety and compliance of your data and systems in the cloud through expert security assessments and audits. We are committed to protecting your business and complying with regulations with our comprehensive cloud security and audit services.</p> 
                             <Link href="/cloud-migration">
                                 <a className="read-more-btn">
                                     <Icon.ArrowRight /> Read More
@@ -61,10 +61,10 @@ const WhatWeDo = () => {
                             </div>
                             <h3>
                                 <Link href="/cloud-security-and-compliance">
-                                    <a>Cloud Security</a>
+                                    <a>Managed Cloud Services</a>
                                 </Link>
                             </h3>
-                            <p>Public, Private, Hybrid & Multi  Clould Consulting Services :- Enjoy the ease of use and maintenance, flexible pricing, and near-unlimited scalability.</p>
+                            <p>CloudPikr guarantees smooth operation and uptime of your cloud infrastructure with expert assistance and troubleshooting. We are devoted to keeping your cloud environment running at peak performance with round-the-clock monitoring and maintenance.</p>
 
                             <Link href="/cloud-security-and-compliance">
                                 <a className="read-more-btn">

@@ -7,10 +7,13 @@ const MainBanner = () => {
         <div className="bigdata-analytics-banner">
             <div className="container">
                 <div className="bigdata-analytics-content">
-                    <h1>Cloud Computing & Hosting Services</h1>
-                    <p>Flexible Cloud Computing | Tailored-made Cloud for applications
-                        We offer you cloud hosting solutions with choices of OS, 
-                        applications and scalability over your public cloud.</p>
+                    <h1>Transforming IT for the Cloud Era</h1>
+                    <p>Modernize and adapt an organization's information technology infrastructure 
+                        to take advantage of the capabilities and benifits offered by cloud computing.
+                        We migrate workloads and data to the cloud, implement cloud-native technologies 
+                        and practices, and re-architect IT systems to be more agile, scalable, and secure.  
+                        The ultimate goal is to enable the organization to be more efficient, flexible,
+                        and responsive to the dynamic needs of the business.</p>
 
                     <Link href="/contact">
                         <a className="btn btn-primary">Get Started</a>
@@ -26,8 +29,8 @@ const MainBanner = () => {
                                 <div className="icon">
                                      <img src="/images/cloud.png" />
                                 </div>
-                                <h3>Fully Managed Cloud Services</h3>
-                                <p>We provide all cloud solution</p>
+                                <h3>Cloud Consulting</h3>
+                                <p>Solution for all cloud migrations</p>
                             </div>
                         </div>
 
@@ -37,7 +40,7 @@ const MainBanner = () => {
                                 <img src="/images/backup.png" />
                                 </div>
                                 <h3>Cloud Security & audit</h3>
-                                <p>Leader in QRadar and SIEM</p>
+                                <p>Security & Complaince</p>
                             </div>
                         </div>
 
@@ -46,8 +49,8 @@ const MainBanner = () => {
                                 <div className="icon">
                                 <img src="/images/enterprise.png" />
                                 </div>
-                                <h3>Cloud Consulting</h3>
-                                <p>Solution for all cloud migration</p>
+                                <h3>Managed Cloud Services</h3>
+                                <p>We provide Day 1 & Day 2 services</p>
                             </div>
                         </div>
                     </div>

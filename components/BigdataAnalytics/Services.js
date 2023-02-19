@@ -7,9 +7,9 @@ const Services = () => {
         <div className="bigdata-services-area ptb-80 bg-eef6fd">
             <div className="container">
                 <div className="section-title">
-                    <h2>Services We Can Help You With</h2>
+                    <h2>Expertise at your disposal</h2>
 					<div className="bar"></div>
-                    <p>Whether you’re a client or a candidate, our service goes beyond simply filling vacancies. We connect professionals across functions.</p>
+                    <p>Whether you're looking to migrate your existing workloads to the cloud, build new cloud-native applications, or optimize your current cloud deployments, our team of experts is here to help.</p>
                 </div>
 
                 <div className="row justify-content-center">
@@ -24,7 +24,7 @@ const Services = () => {
                                 </Link>
                                 <br/>
                             </h3>
-                            <p><br/>Cloud has changed the way many organizations operate, both allowing for and forcing rapid innovation for IT teams.   </p>
+                            <p><br/>Whether you're looking to migrate your existing workloads to the cloud, build new cloud-native applications, or optimize your current cloud deployments, our team of experts is here to help.   </p>
                             
                             <Link href="/cloud-advisory-service">
                                 <a className="learn-more-btn">
@@ -45,10 +45,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link href="/secure-design-architecture-service">
-                                    <a>Secure Design Architecture Service</a>
+                                    <a>Cloud Migration Service</a>
                                 </Link>
                             </h3>
-                            <p>As part of the engagement, our security architect meets with the CISO team and understands overall objectives.</p>
+                            <p>Cloud migration services refer to the process of moving applications, workloads, and data from on-premises infrastructure to the cloud. Organizations may choose to migrate to the cloud for a variety of reasons, including the desire to improve scalability, reduce costs, increase agility, and enhance security.</p>
                             
                             <Link href="/secure-design-architecture-service">
                                 <a className="learn-more-btn">
@@ -69,10 +69,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link href="/cloud-governance-design-service">
-                                    <a>Cloud Governance Design &  Implementation Services</a>
+                                    <a>Cloud Governance</a>
                                 </Link>
                             </h3>
-                            <p>This service is designed to help you set up operational practices around key areas such as Monitoring.</p>
+                            <p>CloudPikr ensures the safety and compliance of your data and systems in the cloud through expert security assessments and audits. We are committed to protecting your business and complying with regulations with our comprehensive cloud security and audit services.</p>
                             
                             <Link href="/cloud-governance-design-service">
                                 <a className="learn-more-btn">
@@ -117,10 +117,12 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link href="/iac-devops-integration-service">
-                                    <a>IAC & DevOps Integration/Implementation Service</a>
+                                    <a>IAC & DevOps</a>
                                 </Link>
                             </h3>
-                            <p>We leverage a  structured customer engagement methodology centered around detailed discovery and design workshops.</p>
+                            <p>Cloud operations, DevOps, and DevSecOps are practices that aim to improve the efficiency and
+effectiveness of cloud computing environments by aligning development, operations, and
+security teams.</p>
                             
                             <Link href="/iac-devops-integration-service">
                                 <a className="learn-more-btn">

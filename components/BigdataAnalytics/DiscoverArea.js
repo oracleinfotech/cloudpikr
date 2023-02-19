@@ -102,8 +102,8 @@ const DiscoverArea = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="discover-content">
-                            <h2>Engaging New Audiences through Smart Approach</h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</p>
+                            <h2>We do Multi Cloud </h2>
+                            <p>We have decades of expertise in multi cloud environments, We have helped companies achieve their cloud stratgey across AWS, GCP , Azure, and OCI.</p>
 
                             <Link href="#">
                                 <a className="btn btn-primary">Discover More</a>
