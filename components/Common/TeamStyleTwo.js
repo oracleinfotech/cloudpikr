@@ -9,7 +9,7 @@ const TeamStyleTwo = () => {
                 <div className="section-title">
                     <h2>Our Awesome Team</h2>
                     <div className="bar"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Meet our experts having decades of experience supporting cloud customers across multi-cloud- AWS, Google, OCI & Azure.</p>
                 </div>
             
                 <div className="row justify-content-center">
@@ -21,34 +21,12 @@ const TeamStyleTwo = () => {
 
                             <div className="team-content">
                                 <div className="team-info">
-                                    <h3>Suchitra Kumari</h3>
-                                    <span>CEO & Founder</span>
+                                    <h3>Suchitra</h3>
+                                    <span>Director of Operations </span>
                                 </div>
 
-                                <ul>
-                                    <li>
-                                        <a href="https://www.facebook.com/" target="_blank">
-                                            <Icon.Facebook />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.twitter.com/" target="_blank">
-                                            <Icon.Twitter />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/" target="_blank">
-                                            <Icon.Linkedin />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.gitlab.com/" target="_blank">
-                                            <Icon.Gitlab />
-                                        </a>
-                                    </li>
-                                </ul>
 
-                                <p>Risus commodo2 viverra maecenas accumsan lacus vel facilisis quis ipsum.</p>
+                                <p>Suchitra holds Masters in Cyber Security and heads operations.</p>
                             </div>
                         </div>
                     </div>
@@ -61,34 +39,13 @@ const TeamStyleTwo = () => {
 
                             <div className="team-content">
                                 <div className="team-info">
-                                    <h3>Gmasom Sadmds</h3>
-                                    <span>Engineer</span>
+                                    <h3>Suneel</h3>
+                                    <span>Engineering Leader</span>
                                 </div>
                                
-                                <ul>
-                                    <li>
-                                        <a href="https://www.facebook.com/" target="_blank">
-                                            <Icon.Facebook />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.twitter.com/" target="_blank">
-                                            <Icon.Twitter />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/" target="_blank">
-                                            <Icon.Linkedin />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.gitlab.com/" target="_blank">
-                                            <Icon.Gitlab />
-                                        </a>
-                                    </li>
-                                </ul>
+                          
 
-                                <p>Risus commodo viverra maecenas accumsan lacus vel facilisis quis ipsum.</p>
+                                <p>Suneel holds Masters Degree in Computer Science and heads Solution Engineering.</p>
                             </div>
                         </div>
                     </div>
@@ -101,34 +58,13 @@ const TeamStyleTwo = () => {
 
                             <div className="team-content">
                                 <div className="team-info">
-                                    <h3>Janny Cotller</h3>
-                                    <span>Cloud Master</span>
+                                    <h3>Varun</h3>
+                                    <span>Migration Expert</span>
                                 </div>
 
-                                <ul>
-                                    <li>
-                                        <a href="https://www.facebook.com/" target="_blank">
-                                            <Icon.Facebook />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.twitter.com/" target="_blank">
-                                            <Icon.Twitter />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/" target="_blank">
-                                            <Icon.Linkedin />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.gitlab.com/" target="_blank">
-                                            <Icon.Gitlab />
-                                        </a>
-                                    </li>
-                                </ul>
+                               
 
-                                <p>Risus commodo viverra maecenas accumsan lacus vel facilisis quis ipsum.</p>
+                                <p>Varun heads migration services for multi cloud deployments.</p>
                             </div>
                         </div>
                     </div>
@@ -141,34 +77,13 @@ const TeamStyleTwo = () => {
 
                             <div className="team-content">
                                 <div className="team-info">
-                                    <h3>Jason Statham</h3>
-                                    <span>Security Engineer</span>
+                                    <h3>Avi</h3>
+                                    <span>Security Architect</span>
                                 </div>
 
-                                <ul>
-                                    <li>
-                                        <a href="https://www.facebook.com/" target="_blank">
-                                            <Icon.Facebook />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.twitter.com/" target="_blank">
-                                            <Icon.Twitter />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/" target="_blank">
-                                            <Icon.Linkedin />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.gitlab.com/" target="_blank">
-                                            <Icon.Gitlab />
-                                        </a>
-                                    </li>
-                                </ul>
+                               
 
-                                <p>Risus commodo viverra maecenas accumsan lacus vel facilisis quis ipsum.</p>
+                                <p>Avi is certified Cloud professional and heads Security Practices.</p>
                             </div>
                         </div>
                     </div>

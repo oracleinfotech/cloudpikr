@@ -15,16 +15,25 @@ const DigitalMarketingDetails = () => {
         <>
             <Navbar />
 
-            <PageBanner pageTitle="Secure Design Architecture Service" />
+            <PageBanner pageTitle="Cloud Migration Service" />
 
             <div className="services-details-area pt-150">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 services-details">
                             <div className="services-details-desc">
-                                <h3>Secure Design Architecture Service</h3>
+                                <h3>Cloud Migration Service Service</h3>
                                 <p>
-                                As part of the engagement, our security architect meets with the CISO team and understands overall objectives in and around a secure deployment of production or non-production workloads to the cloud, and delivers to them innovative cloud security engagements and programs that standardize and accelerate the adoption of public or private cloud.  In this cloud journey, we work closely with the security team & CISO organization to help transform and reimagine their security against recommended cybersecurity frameworks and regulations. While we have established several years of practices with several cloud vendors and on-premise deployments, we standardize and advise on a secure architecture based on customer needs. We make sure customers understand the importance of secure cloud deployment against cybersecurity industry-standard certification criteria and make sure these are followed during design discussions. The purpose of the engagement is to deliver required artifacts and Secure design documentation factoring a secure and maintainable environment adhering to industry best practices around Network, Hosts, databases, perimeter, applications, and required governance such as inspecting network traffic, centralizing log collection, monitoring, alerting, change and configuration tracking, encryption, key management identity, and access controls, etc. 
+                                
+Cloud migration refers to the process of moving applications, workloads, and data from on-premises infrastructure to the cloud. Organizations may choose to migrate to the cloud for a variety of reasons, including the desire to improve scalability, reduce costs, increase agility, and enhance security.
+There are several approaches to cloud migration, including:
+                                <ol style={{ listStyleType: 'decimal' }}>
+                                    <li>Lift and shift: This approach involves moving existing applications and workloads to the cloud without making significant changes to the application itself. This can be an attractive option for organizations that want to take advantage of the benefits of the cloud but do not have the resources or time to re-architect or re-platform their applications.</li>
+                                    <li>Re-platform: This approach involves making changes to the application to take advantage of cloud-native features and capabilities. This may include migrating the application to a different operating system or database or implementing cloud-specific technologies such as containers or serverless functions.</li>
+                                    <li>Re-architect: This approach involves fundamentally redesigning the application to take advantage of the cloud. This may involve breaking the application into smaller, independent components that can be scaled and managed separately, or implementing a microservices architecture.</li>
+                                </ol>
+Regardless of the approach chosen, successful cloud migrations typically involve thorough planning and testing to ensure that the application performs as expected in the new environment.
+. 
                                 </p>
                             </div>
                         </div>

@@ -24,7 +24,11 @@ const DigitalMarketingDetails = () => {
                             <div className="services-details-desc">
                                 <h3>Cloud Advisory Service</h3>
                                 <p>
-                                Cloud has changed the way many organizations operate, both allowing for and forcing rapid innovation for IT teams.  In contrast, IT teams often lag and are running with disparate/duplicative tooling, hybrid infrastructures, and outdated practices. This often holds cloud adoption back due to concerns over risks and exposure related to the cloud.  While cloud service providers make available documentation and expertise to help customers operationalize and secure the cloud, customer Chief Information Security Officers look to those CSPs to match them with an executive-level trusted advisor who has faced similar challenges and will help them create and/or mature their cloud strategies and be the primary point of contact for any related cloud practices, questions, or concerns. As part of advisory service, our team focuses on delivering end-to-end advice around Infrastructure(Compute, storage, Networking, Databases) and security best practices.
+                                Cloud has changed how many organizations operate, allowing for and forcing rapid innovation for IT teams. In contrast, IT teams often lag and run with disparate/duplicative tooling, hybrid infrastructures, and outdated practices. In addition, obsolete methods often hold cloud adoption back due to concerns over risks and exposure related to the cloud. 
+
+Cloud Service Providers often share their best practices and help customers lift their workloads to the cloud. However, there is always a gap between the organization's and the cloud's best practices that must fill.
+
+The Cloud Advisory Service can help fill the gap by conducting a discovery session with Chief Information Security Officers (CISO/CSO) or Security team and making recommendations on improving the security posture for the given architecture or workload under consideration. Then, our experts can implement the recommendations to enhance your Cloud Security Posture.
                                 </p>
                             </div>
                         </div>

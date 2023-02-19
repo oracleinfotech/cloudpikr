@@ -15,16 +15,34 @@ const DigitalMarketingDetails = () => {
         <>
             <Navbar />
 
-            <PageBanner pageTitle="IAC & DevOps Integration/Implementation Service" />
+            <PageBanner pageTitle="IAC & DevOps" />
 
             <div className="services-details-area pt-150">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 services-details">
                             <div className="services-details-desc">
-                                <h3>IAC & DevOps Integration/Implementation Service</h3>
+                                <h3>IaC & DevOps</h3>
                                 <p>
-                                 We leverage a  structured customer engagement methodology centered around detailed discovery and design workshops, and a standardized design deliverable and automation that produces the terraform provisioning code directly based on the agreed design. That TF code we produce for deploying your cloud tenancy can then be leveraged as Cloud Resource Manager stacks, or integrated with existing customer CI/CD frameworks and pipelines. We develop  Dev/Sec/Ops practices, processes, and Reusable assets with automation capabilities for industry standard use cases leveraging Cloud native tooling or platform provided by cloud vendors, we also help with standard open source tools such as Jenkins, Hashicorp, and git as part of the engagement. The idea behind this engagement is to not just leave the code but also set up processes and workflow in place so that a cloud tenancy can be managed well with ongoing changes in tenancy.
+                                <p>
+                                Cloud operations, DevOps, and DevSecOps are practices that aim to improve the efficiency and effectiveness of cloud computing environments by aligning development, operations, and security teams.
+                                </p>
+                                </p>
+                                <p>
+                                Cloud operations focus on the day-to-day management of cloud resources, including tasks such as deployment, monitoring, and maintenance. DevOps is a set of practices that aims to improve the collaboration and communication between development and operations teams, with the goal of enabling faster and more efficient software delivery. DevSecOps is a variant of DevOps that emphasizes the integration of security practices into the development and operations process.
+                                </p>
+                                <p>
+                                By adopting cloud operations, DevOps, or DevSecOps practices, organizations can:
+                               
+                                    <ol style={{ listStyleType: 'decimal' }}>
+                                        <li> Improve efficiency: By automating tasks and processes, organizations can reduce the time and effort required to manage cloud resources. </li>
+                                        <li> Increase agility: By enabling faster software delivery, organizations can respond more quickly to changing business needs.</li>
+                                        <li> Improve security: By integrating security practices into the development and operations process, organizations can reduce the risk of security breaches.</li>
+                                        <li> Increase collaboration: By fostering better communication and collaboration between teams, organizations can improve their overall productivity and effectiveness.</li>
+                                    </ol>
+                                </p>
+                                <p>
+                                To implement cloud operations, DevOps, or DevSecOps practices, organizations may need to adopt tools and technologies such as infrastructure as code (IaC), configuration management tools, continuous integration, and delivery (CI/CD) pipelines, and monitoring and logging solutions.
                                 </p>
                             </div>
                         </div>

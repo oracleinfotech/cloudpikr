@@ -113,7 +113,7 @@ class Feedback extends React.Component {
                     <div className="section-title">
                         <h2>What users Saying</h2>
                         <div className="bar"></div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>At CloudPikr we take our customers seriously and work closely with their team to make sure we meet their expectations and bring success which matters to them.</p>
                     </div>
 
                     <div className="feedback-slides">
